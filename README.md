@@ -20,3 +20,4 @@ However, we can also see that average fare has the opposite trend as rural areas
 
 Based on these results, it is my recommendation that the CEO make adjustments to the service in order to alleviate concerning trends in the data. I would recommend incentivizing drivers to leave cities and enter the suburbs to accomodate demand. I also would recommend some kind of cap on the fares of short rides in rural areas as the high fares are prohibitive to business. Lastly, I would recommend some incentive to attract new drivers in rural and suburban areas as the driver count in those cities are low.
 
+<img width="522" alt="Screen Shot 2021-11-28 at 11 53 57 PM" src="https://user-images.githubusercontent.com/18372229/143815881-70a9cb53-6d0d-4392-93d2-d1635f72c352.png">
